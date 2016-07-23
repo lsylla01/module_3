@@ -1,0 +1,11 @@
+#header-nav {
+	background-color: #999999;
+	border-radius: 0;
+	border: 0;
+}
+
+.menuItems {
+	text-align: center;
+	font-size: 1.75em;
+	background-color: #ffaa00;
+}
